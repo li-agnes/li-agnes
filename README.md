@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @li-agnes
 - 👀 I’m interested in public health and data science!
 - 🌱 I’m currently learning R, Python, and SQL!
-- 💞️ I’m looking to collaborate on anything!
+- 💞️ I’m looking to collaborate!
 - 📫 How to reach me agnesli@uw.edu
 
 <!---
